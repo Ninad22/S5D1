@@ -1,8 +1,4 @@
-This is a program to add gossip of THP members to as CSV database.
+Ce programme permet de publier et de consulter (je n'ai pas fini la partie éditer) des gossips THP dans une data_base CSV.
 
-The added gossips can also be displayed.
-
-In addition each gossip has its own page/url.
-
-I finished the project at 2.6.5, so with this program is not possible to edit gossips.
+Pour faire fonctionner le programme, exécuter le serveur par une commande $ shotgun -p 4567 sur le terminal puis lancer l'url http://localhost:4567/ dans le navigateur.
 
